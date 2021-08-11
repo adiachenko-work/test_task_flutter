@@ -1,6 +1,5 @@
 # flutter_application
 
-A new Flutter project.
 Tested on Chrome browser and Pixel_3 Android Emulation.
 
 ## Getting Started
